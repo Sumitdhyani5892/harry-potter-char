@@ -1,0 +1,14 @@
+.box {
+    border:1px solid #aaa;
+    border-radius:10px;
+    background-color: #ccc;
+    
+    padding: 1.5rem;
+}
+
+.image {
+    border:1px solid #555;
+    border-radius: 50%;
+    width:150px;
+    height:200px;
+}
